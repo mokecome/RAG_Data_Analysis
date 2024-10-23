@@ -4,7 +4,7 @@
   
 - **前端技术**: Streamlit
   
-- **后端技术**: LangServe + FastAPI
+- **後端技术**: LangServe + FastAPI
   
 - **嵌入模型**: OpenAI Embedding, GoogleGenerativeAIEmbeddings
   
