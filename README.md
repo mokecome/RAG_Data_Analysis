@@ -8,7 +8,6 @@
   
 - **嵌入模型**: OpenAI Embedding, GoogleGenerativeAIEmbeddings
   
-- **狀態追蹤**: LangSmith
 
 
 ## 安装指南
