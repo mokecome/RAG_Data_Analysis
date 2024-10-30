@@ -6,7 +6,7 @@
   
 - **後端技术**: LangServe + FastAPI
   
-- **嵌入模型**: OpenAI Embedding, GoogleGenerativeAIEmbeddings
+- **嵌入模型**: OpenAI Embedding
   
 
 
@@ -16,10 +16,10 @@
 git clone https://github.com/mokecome/RAG_Data_Analysis.git
 
 # 安装依赖
-cd MRAgent
+cd community_data_analysis
 pip install -r requirements.txt
 
-# 在.env文件中填写Gemini API Key
+# 在.env文件中填写OpenAI API Key
 
 # 运行服务端
 python app/client
